@@ -14,7 +14,7 @@ Windows
 pip install -r requirements.txt
 ```
 
-## How to run the script: 
+## How to run the script
 
 ```
 python3 neuralnet.py
