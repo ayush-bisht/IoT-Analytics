@@ -24,7 +24,7 @@ The following inputs are asked from the user:
 (for task 2.2 the first 4 values are the mean values, for task 2.1 these are the absoulte values)
 
 
-# Output:
+## Output:
 
 (This is same for both the task files as well)
 
