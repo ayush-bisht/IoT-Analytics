@@ -1,5 +1,5 @@
 ## Environment
-The script has been tested on python2.7. It will not run on python>=3.6.
+The script has been tested on python2.7. It will not run on python3 and above.
 Install the packages in the `requirements.txt`.
 
 ## Compile and Run
