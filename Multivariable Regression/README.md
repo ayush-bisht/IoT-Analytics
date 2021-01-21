@@ -16,9 +16,6 @@ pip install -r requirements.txt
 
 ## How to run the script: 
 
-```
-python3 simulation_task3.py
-```
 Run the py file with: 
 
 ```
