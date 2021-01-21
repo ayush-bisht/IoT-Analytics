@@ -1,0 +1,7 @@
+Python 3.6 or higher is required.
+The following python modules are required.
+numpy
+pandas
+matplotlib
+sklearn
+statsmodel

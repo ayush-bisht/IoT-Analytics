@@ -1,0 +1,19 @@
+The following python modules are required:
+
+numpy
+pandas
+matplotlib
+sklearn
+scipy
+statsmodels
+
+Note:
+1. the code runs on python3
+
+2. AutoReg function of statsmodels requires a recent version of the statsmodels module.
+If statsmodels is not updated.
+To install the update run: pip install statsmodels --upgrade
+
+3. Once all modules are installed run: python3 forecasting.py
+(make sure the csv is in the right folder, currently its assumed to be in the same folder as the python code)
+(a copy of the csv file is submitted along as well) 
