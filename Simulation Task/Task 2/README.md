@@ -2,7 +2,7 @@
 The script has been testedon python2.7. It will not run on python>=3.6.
 Install the packages in the `requirements.txt`.
 
-## Compile and Run:
+## Compile and Run
 
 (This is the same for both task files)
 
@@ -24,7 +24,7 @@ The following inputs are asked from the user:
 (for task 2.2 the first 4 values are the mean values, for task 2.1 these are the absoulte values)
 
 
-## Output:
+## Output
 
 (This is same for both the task files as well)
 
