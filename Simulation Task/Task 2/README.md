@@ -10,10 +10,15 @@ Run the python file with the command:
 
 for task 2.1:
 
-```python task21.py```
+```
+python task21.py
+```
+
 for task 2.2:
 
-```python task22.py```
+```
+python task22.py
+```
 
 The following inputs are asked from the user:
 1. Inter-arrival time for RT msgs
