@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## How to run the script: 
 
 ```
-python3 simulation_task3.py
+python3 neuralnet.py
 ```
 
 ## Note
