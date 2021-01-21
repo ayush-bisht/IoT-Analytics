@@ -20,11 +20,9 @@ python3 simulation_task3.py
 ```
 
 The code ask for the following inputs:
-Mean inter-arrival time for RT messages (7 for our case)
-Mean service time for RT messages (2)
-Mean service time for nonRT messages (4)
-Batch size (1000)
-Total number of batches (51)
+
+Mean inter-arrival time for RT messages, Mean service time for RT messages, Mean service time for nonRT messages, Batch size, Total number of batches
+
 
 The code does not ask for MIAT for nonRT messages as it is a varying value and is hard-coded as a list
 
