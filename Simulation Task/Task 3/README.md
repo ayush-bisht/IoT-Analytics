@@ -1,6 +1,6 @@
 ## Environment
 
-They sript will run for python version >= 3.6.
+The sript will run for python version >= 3.6.
 
 Please install the required packages in the `requirements.txt`file by running the following command.
 
