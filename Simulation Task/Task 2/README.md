@@ -9,8 +9,10 @@ Install the packages in the `requirements.txt`.
 Run the python file with the command: 
 
 for task 2.1:
+
 ```python task21.py```
 for task 2.2:
+
 ```python task22.py```
 
 The following inputs are asked from the user:
