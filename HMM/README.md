@@ -14,17 +14,17 @@ Windows
 pip install -r requirements.txt
 ```
 
-## How to run the script: 
+## How to run the script
 
-To run the main HMM script
+To run the main HMM task:
 
 ```
-python3 simulation_task3.py
+python3 hmm.py
 ```
 
 To run the extra credit HMM assignment:
 
 
 ```
-python3 simulation_task3.py
+python3 hmm_extra.py
 ```
