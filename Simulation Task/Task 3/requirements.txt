@@ -1,0 +1,8 @@
+The following python modules are required:
+
+collections
+pandas
+numpy
+scipy
+matplotlib
+
