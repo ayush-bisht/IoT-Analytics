@@ -15,7 +15,7 @@ Windows
 pip install -r requirements.txt
 ```
 
-## How to run the script: 
+## How to run the script
 
 ```
 python3 forecasting.py
@@ -31,4 +31,4 @@ To install the update run:
 pip install statsmodels --upgrade
 ```
 
-2. Make sure the csv is in the right folder, currently its assumed to be in the same folder as the python code.
+2. Make sure the csv is in the right folder. Currently its assumed to be in the same folder as the python code.
